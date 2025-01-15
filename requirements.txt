@@ -1,0 +1,6 @@
+PyQt5==5.15.4
+PyQt5-sip<13,>=12.8
+PyQt5-Qt5>=5.15.2
+scapy==2.4.5
+psutil==5.8.0
+
